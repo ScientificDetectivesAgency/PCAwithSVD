@@ -60,3 +60,4 @@ print(np.allclose(np.square(Sigma) / (n - 1), eigen_vals))
 
 #https://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 #https://towardsdatascience.com/pca-and-svd-explained-with-numpy-5d13b0d2a4d8
+#https://intoli.com/blog/pca-and-svd/
